@@ -13,11 +13,8 @@
 查看防火墙规则：
 /ip firewall filter print
 
-查看 CPU 使用情况：
+查看 CPU 和 内存 使用情况：
 /system resource print
 
-查看内存使用情况：
-/system resource print
-
-查看日志
+查看日志：
 /log print
