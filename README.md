@@ -1,7 +1,8 @@
 # Routeros-shell
 需要ios手机app客户端（mikrotik）访问，只能安装7.21.3及以下的低版本。
 云服务器安装命令：
-VERSION=7.24.3 bash <(curl https://mikrotik.ltd/chr.sh)
+
+VERSION=7.21.3 bash <(curl https://mikrotik.ltd/chr.sh)
 
 1、ros常用命令记录：
 首先做好安全防护，关闭风险端口，只保留winbox
